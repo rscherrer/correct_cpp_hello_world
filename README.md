@@ -2,7 +2,7 @@
 
 Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
-master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_hello_world.svg?branch=master)](https://travis-ci.org/richelbilderbeek/correct_cpp_hello_world)|[![codecov.io](https://codecov.io/github/richelbilderbeek/correct_cpp_hello_world/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/correct_cpp_hello_world/branch/master)
+master|[![Build Status](https://travis-ci.org/rscherrer/correct_cpp_hello_world.svg?branch=master)](https://travis-ci.org/rscherrer/correct_cpp_hello_world)|[![codecov.io](https://codecov.io/github/rscherrer/correct_cpp_hello_world/coverage.svg?branch=master)](https://codecov.io/github/rscherrer/correct_cpp_hello_world/branch/master)
 
 [Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Hello world'.
 
@@ -13,7 +13,7 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/correct_cpp_hello
 ## Prerequisites
 
  * Know [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
- * Have written [a correct 'hello' program](https://github.com/richelbilderbeek/correct_cpp_hello)
+ * Have written [a correct 'hello' program](https://github.com/rscherrer/correct_cpp_hello)
 
 ## Exercise
 
